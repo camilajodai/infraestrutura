@@ -1,0 +1,7 @@
+Localhost: 3 redes (desktop, notebook, smartphone)
+LAN: rede de área local 
+WAN: rede de área ampla 
+
+
+SOHO (Small Office Home Office)
+ISP (internet service provider)
